@@ -1,0 +1,15 @@
+.food {
+    color: lightblue;
+}
+
+.game {
+    color: red;
+}
+.Award{color:gold;} 
+.Movie{
+color:yellow ;}
+.img{width: 300px;}
+body {
+  background-color: CadetBlue;
+}
+img{border:dotted;}
